@@ -40,14 +40,13 @@ width:950px:
 }
 
 #section3{
-	height: 400px;
 	width: 950px;
 }
 
 #imagebox {
 	border: 1px dashed black; /* 枠線 */
 	background-color: #dddee3;  /* 背景色 */
-	width: 200px; /* 横幅 */
+	width: 225px; /* 横幅 */
 	float: left; /* 左に配置 */
 	margin: 5px; /* 周囲の余白 */
 }
