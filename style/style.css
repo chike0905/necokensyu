@@ -1,1 +1,26 @@
+#section1 {
+	clear: both;
+	height: 200px;
+    width: 950px;
+	background-image: url(../img/header.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+}
 
+    #section1 #dai {
+	color:white;
+	margin:20px auto auto;
+	text-align:center;
+	font-size: 32px;
+	font-weight: bold;
+    font-family: "ＭＳ Ｐ明朝","ＭＳ 明朝",serif;
+}
+
+    #section1 #msg {
+	color:#E3E7EA;
+	margin:15px 15px auto;
+	text-align:left;
+	font-size: 17px;
+	font-weight: normal;
+    font-family: "ＭＳ Ｐ明朝","ＭＳ 明朝",serif;
+}
